@@ -2,7 +2,7 @@
 > <b>Google tarayıcısına Temel eklenti paketi, geliştirmesi size kalmıştır !</b>
 <h2 align="center">Bilgilendirme</h2>
 
-<h4 align="center">Merhaba bu Chrome eklentisi içerisinde yer alan tüm özellikler aşağıda yer almaktadır.</h4>
+<h4 align="center">Merhaba bu Google eklentisi içerisinde yer alan tüm özellikler aşağıda yer almaktadır.</h4>
 
 
 |Alan|Aracı|İşlev|Aracı Hakkında Bilgi|
