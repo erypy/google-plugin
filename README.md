@@ -1,5 +1,5 @@
-# chrome-plugin-create
-Chrome tarayıcısına Temel eklenti paketi, geliştirmesi size kalmıştır !
+# Google Plugin
+> <b>Google tarayıcısına Temel eklenti paketi, geliştirmesi size kalmıştır !</b>
 <h2 align="center">Bilgilendirme</h2>
 
 <h4 align="center">Merhaba bu Chrome eklentisi içerisinde yer alan tüm özellikler aşağıda yer almaktadır.</h4>
@@ -11,4 +11,3 @@ Chrome tarayıcısına Temel eklenti paketi, geliştirmesi size kalmıştır !
 |**`Açıklama`**|`description`|`Google Eklentisi v0.1`|Google eklentiniz hakkında bilgi amaçlı kullanılır.|
 |**`Versiyon`**|`version`|`v0.1`|Eklentinizin sürümünü göstereceğiniz kısım.|
 |**`Görsel`**|`icon`|`icon.png`|Eklentinizin logo işlevini yerine getirebilmesi için kullanılır.|
-</center>
