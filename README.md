@@ -11,3 +11,4 @@
 |**`Açıklama`**|`description`|`Google Eklentisi v0.1`|Google eklentiniz hakkında bilgi amaçlı kullanılır.|
 |**`Versiyon`**|`version`|`v0.1`|Eklentinizin sürümünü göstereceğiniz kısım.|
 |**`Görsel`**|`icon`|`icon.png`|Eklentinizin logo işlevini yerine getirebilmesi için kullanılır.|
+|**`Sayfa`**|`default_popup`|`popup.html`|Eklentinizin görsel anlamda geliştirirken kullanılır.|
